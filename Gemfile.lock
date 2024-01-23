@@ -478,7 +478,6 @@ DEPENDENCIES
   capistrano-bundler
   capistrano-git-with-submodules (~> 2.0)
   capistrano-passenger
-  capistrano-rvm
   dalli
   decko
   decko-cap!
